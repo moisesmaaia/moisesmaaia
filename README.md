@@ -9,7 +9,7 @@
 
 **Linguagens**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,js,html,css,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,js,html,css,msql)](https://skillicons.dev)
 
 
 **Ferramentas de desenvolvimento**

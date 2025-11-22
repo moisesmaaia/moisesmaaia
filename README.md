@@ -3,7 +3,7 @@
 
 - 🤔 Entusiasta de tecnologia.
 - 🎓 Estudando Sistemas de Informação na PUC Minas.
-- 💼 Estagiando em um Lab de Tecnologia.
+- 💼 Estagiário de TI na Prefeitura de Betim
 
 ## Minhas Skills
 

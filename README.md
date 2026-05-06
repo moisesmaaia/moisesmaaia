@@ -9,8 +9,10 @@
 
 **Linguagens**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,js,html,css,msql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,js,html,css,msql,sqls,)](https://skillicons.dev)
 
+**Dados**
+[![My Skills](https://skillicons.dev/icons?i=msql,sqls)](https://skillicons.dev)
 
 **Ferramentas de desenvolvimento**
 
@@ -25,5 +27,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moisesmaiaa)](https://www.linkedin.com/in/moisesmaiaa)
-[![Gmail Badge](https://img.shields.io/badge/-samueelmaia28@gmai.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samueelmaia28@gmail.com)](mailto:samueelmaia28@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-samueelmaia28@gmai.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moisesmaiacr@gmail.com)](mailto:moisesmaiacr@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/moisesmaaia?label=follow&style=social)](https://github.com/moisesmaaia)

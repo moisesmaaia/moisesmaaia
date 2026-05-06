@@ -12,9 +12,11 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,py,js,html,css)](https://skillicons.dev)
 
 **Dados**
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 **Frameworks**
+
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,dotnet,fastapi)](https://skillicons.dev)
 
 **Ferramentas de desenvolvimento**
@@ -23,7 +25,7 @@
 
 <br/>
 
-<a href="https://github.com/moisesmaaia" title="Perfil do Iuri">
+<a href="https://github.com/moisesmaaia" title="Perfil do Moisés">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisesmaaia&theme=dracula&show_icons=true" />
 </a>
 
